@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/voting-app/static/css/main.0048ed04.css",
-    "main.js": "/voting-app/static/js/main.1b7a5a06.js",
+    "main.css": "/voting-app/static/css/main.0b12c5a4.css",
+    "main.js": "/voting-app/static/js/main.d8e8e116.js",
     "static/media/header.png": "/voting-app/static/media/header.c29a897a4c057c8a1fbb.png",
     "static/media/award.png": "/voting-app/static/media/award.bdab5fdf5f9d544c6033.png",
     "static/media/blue-algorithm.png": "/voting-app/static/media/blue-algorithm.1829ca11e35dcca48058.png",
     "static/media/alphablue.png": "/voting-app/static/media/alphablue.81fafe0fb911c04eb066.png",
     "static/media/afrilab.png": "/voting-app/static/media/afrilab.ef621da4f308d1e6481f.png",
     "index.html": "/voting-app/index.html",
-    "main.0048ed04.css.map": "/voting-app/static/css/main.0048ed04.css.map",
-    "main.1b7a5a06.js.map": "/voting-app/static/js/main.1b7a5a06.js.map"
+    "main.0b12c5a4.css.map": "/voting-app/static/css/main.0b12c5a4.css.map",
+    "main.d8e8e116.js.map": "/voting-app/static/js/main.d8e8e116.js.map"
   },
   "entrypoints": [
-    "static/css/main.0048ed04.css",
-    "static/js/main.1b7a5a06.js"
+    "static/css/main.0b12c5a4.css",
+    "static/js/main.d8e8e116.js"
   ]
 }
