@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/adca-admin/static/css/main.3c7ff022.css",
-    "main.js": "/adca-admin/static/js/main.a125db98.js",
-    "static/media/award.png": "/adca-admin/static/media/award.8a726c7a9a41fa5d9b6a.png",
-    "index.html": "/adca-admin/index.html",
-    "main.3c7ff022.css.map": "/adca-admin/static/css/main.3c7ff022.css.map",
-    "main.a125db98.js.map": "/adca-admin/static/js/main.a125db98.js.map"
+    "main.css": "/voting-app/static/css/main.62033b1b.css",
+    "main.js": "/voting-app/static/js/main.da0ff7d2.js",
+    "static/media/header.png": "/voting-app/static/media/header.19b45832530cb0182bfa.png",
+    "static/media/galery2.png": "/voting-app/static/media/galery2.bf9d8b4db65f01219d0e.png",
+    "static/media/galery1.png": "/voting-app/static/media/galery1.9d7b7a5abff999da641d.png",
+    "static/media/galery3.png": "/voting-app/static/media/galery3.8750689bcec9a7add542.png",
+    "static/media/award.png": "/voting-app/static/media/award.8a726c7a9a41fa5d9b6a.png",
+    "static/media/blue-algorithm.png": "/voting-app/static/media/blue-algorithm.1829ca11e35dcca48058.png",
+    "static/media/alphablue.png": "/voting-app/static/media/alphablue.81fafe0fb911c04eb066.png",
+    "static/media/kcca-logo.png": "/voting-app/static/media/kcca-logo.f370734d7979226125a7.png",
+    "static/media/afrilab.png": "/voting-app/static/media/afrilab.ef621da4f308d1e6481f.png",
+    "index.html": "/voting-app/index.html",
+    "main.62033b1b.css.map": "/voting-app/static/css/main.62033b1b.css.map",
+    "main.da0ff7d2.js.map": "/voting-app/static/js/main.da0ff7d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7ff022.css",
-    "static/js/main.a125db98.js"
+    "static/css/main.62033b1b.css",
+    "static/js/main.da0ff7d2.js"
   ]
 }
